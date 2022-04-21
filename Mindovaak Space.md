@@ -1,0 +1,4 @@
+# Mindovaat Space - Instruction Space
+After the arranging and thought finalization in the [[Lor Space]], the arranged Lor is sent to the Mindovaat Space where it gets broken down to [[Fundamental Lor]] if possible. Typically a [[Grimoire]] is needed in the process, but if the practitioner is very adept, they can also try to break down the [[Compound Lor]] on their own or assist the [[Grimoire]]. 
+
+In the case the practitioner has not completely comprehended or researched the [[Fundamental Lor]] required for their Lu command, the [[Interference]] power of the command when overwriting the Zaak is weaker. In the case of complete lack of comprehension of what they're doing, Zaak will fail to get overwritten in the first place once it reaches the [[Dreh Space]] and starts getting executed.

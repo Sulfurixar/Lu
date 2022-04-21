@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "25c827f7f574f19e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cd01eb1b27ed191",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dff286b42091183",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9ada2e403d4d5aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab980af211f962c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c93bbc9a7f949b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7be695ebb6253d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f9bd39f469dde7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3254d101e901fd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5cd01eb1b27ed191",
+  "lastOpenFiles": [
+    "Themas/Thema.md",
+    "Compound Lor.md",
+    "Themas/Virtue Type/Virtue Type Archives.md",
+    "Classes/Casting Ranking.md",
+    "Classes/Classes.md",
+    "Classes/Lethality Ranking.md",
+    "Classes/Practitioner Ranking.md",
+    "Classes/Trinity.md",
+    "Classes/Septette.md",
+    "Interference.md"
+  ]
+}

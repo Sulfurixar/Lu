@@ -1,0 +1,5 @@
+# Dreh Space - Execution Space
+
+Once a Lu command has been broken down it's most fundamental pieces ([[Fundamental Lor]]) in [[Mindovaak Space]], it is sent to the Dreh Space, where it is directed to the correct position in the world and then used to overwrite the Zaak. The closer to [[Fundamental Lor]] the Lor received by this space is, the more [[Interference]] it causes on the Zaak of the world, and thus, the easier it can cancel out the original information of the world. 
+
+Similarly, the less it alters the original information, the less interference is required, thus having a good comprehension of what you are trying to overwrite and having a comprehension of [[Fundamental Lor]] required for your Lu command correlate strongly - making it easier for someone who knows a lot of [[Fundamental Lor]] to overall minimize the interference power they need by adjusting the Lu command to only alter as little as they need, whilst being able to cause more complex phenomena with less Lu.
